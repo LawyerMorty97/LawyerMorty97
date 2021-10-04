@@ -7,23 +7,23 @@ I studied at the Høyskolen Kristiania University College located in Oslo, Norwa
 
 I love programming and have experience with programming languages/frameworks:
 - Python
-	- [Django](djangoproject.com)
-	- [Flask](flask.palletsprojects.com)
+	- [Django](http://djangoproject.com)
+	- [Flask](http://flask.palletsprojects.com)
 - JavaScript/Typescript
 	- Angular
 	- React
 - C/C++
-	- [GLFW](glfw.org)
+	- [GLFW](http://glfw.org)
 	- [OpenGL](http://www.opengl-tutorial.org/)
-	- [SDL2](libsdl.com)
+	- [SDL2](http://libsdl.com)
 - C#
-	- [FiveM](fivem.net) (GTA5 multiplayer mod)
+	- [FiveM](http://fivem.net) (GTA5 multiplayer mod)
 	- Unity
 	- .NET 5
 - Lua
 	- LÖVE
-	- [Multi Theft Auto](multitheftauto.com) (GTA:SA multiplayer mod)
-	- [FiveM](fivem.net) (GTA5 multiplayer mod)
+	- [Multi Theft Auto](http://multitheftauto.com) (GTA:SA multiplayer mod)
+	- [FiveM](http://fivem.net) (GTA5 multiplayer mod)
 ---
 I also like do dabble with domain and server management.
 
