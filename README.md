@@ -27,7 +27,7 @@ I love programming and have experience with programming languages/frameworks:
 ---
 I also like do dabble with domain and server management.
 
-To get relatively cheap hosting, visit [Hetzer](https://hetzner.cloud/?ref=m6aqwekAw7Tp)
+To get relatively cheap hosting, visit [Hetzner](https://hetzner.cloud/?ref=m6aqwekAw7Tp)
 
 ---
 In additional to software development, I also like to play around with microcontrollers.
